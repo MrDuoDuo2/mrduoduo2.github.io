@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mrduoduo2.github.io/blog/sitemap.xml
+Sitemap: https://mrduoduo2.github.io/sitemap.xml
